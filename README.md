@@ -1,5 +1,7 @@
 # machine-learning-image-registration-UHF-MRI
 
+See paper for full explanation, abstract is pasted below.
+
 Image artefacts caused by subject motion are one of the dominant issues restricting image quality for ultrahigh field magnetic resonance imaging (MRI). Motion correction of MRI head scans has been achieved to an
 extent through the FatNav approach. The FatNav approach takes multiple low-resolution images, called
 navigators, across the high-resolution host sequence. Host images are realigned retrospectively (after
